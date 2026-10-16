@@ -1,0 +1,6 @@
+{
+  "name": "SHRI Music (DEKU) - Offline Android Music Player",
+  "description": "Production offline music player for Android featuring Nothing OS & Google Pixel aesthetics, 5-band equalizer, MediaStore scanner, lock-screen MediaSession controls, and full native Android Studio Kotlin codebase export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
